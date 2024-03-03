@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Vasanth raj
 
-student @ KLN COLLEGE OF ENGINEERING
+Student @ KLN COLLEGE OF ENGINEERING
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](#)                                                 
 - 🌱 I’m currently learning Web Development
@@ -20,13 +20,13 @@ student @ KLN COLLEGE OF ENGINEERING
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
 
-### 💻 Workspace Spec
-
 ### statistics
 ![pmvashari007's Stats](https://github-readme-stats.vercel.app/api?username=pmvashari007&theme=react&show_icons=true&hide_border=false&count_private=true)
 ![pmvashari007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pmvashari007&theme=react&hide_border=false)
 ![pmvashari007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmvashari007&theme=react&show_icons=true&hide_border=false&layout=compact)
 
+### Leet Code
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pmvashari007?theme=dark&font=Marcellus&ext=contest)
 
+### Github Graph 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pmvashari007&bg_color=000000&color=004cff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
