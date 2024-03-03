@@ -20,9 +20,11 @@ Student @ KLN COLLEGE OF ENGINEERING
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
 
-### statistics
-![pmvashari007's Stats](https://github-readme-stats.vercel.app/api?username=pmvashari007&theme=react&show_icons=true&hide_border=false&count_private=true)
+### Github Statistics
 ![pmvashari007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pmvashari007&theme=react&hide_border=false)
+
+![pmvashari007's Stats](https://github-readme-stats.vercel.app/api?username=pmvashari007&theme=react&show_icons=true&hide_border=false&count_private=true)
+
 ![pmvashari007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmvashari007&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 ### Leet Code
