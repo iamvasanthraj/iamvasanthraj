@@ -31,4 +31,4 @@ Student @ KLN COLLEGE OF ENGINEERING
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pmvashari007?theme=dark&font=Marcellus&ext=contest)
 
 ### Github Graph 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pmvashari007&bg_color=000000&color=004cff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&bg_color=000000&color=004cff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
