@@ -21,7 +21,7 @@ Student @ KLN COLLEGE OF ENGINEERING
 
 
 ### Github Statistics
-![pmvashari007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=react&hide_border=false)
+
 
 ![pmvashari007's Stats](https://github-readme-stats.vercel.app/api?username=iamvasanthraj&theme=react&show_icons=true&hide_border=false&count_private=true)
 
