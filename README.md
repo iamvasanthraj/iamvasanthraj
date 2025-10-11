@@ -27,15 +27,13 @@ Student @ **KLN College of Engineering**
 ---
 
 ### 🛠 IDE & Tools
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" title="Git"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma"/>
-  <img height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/eclipseide.svg" title="Eclipse IDE"/>
-  <img height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg" title="Spring Boot"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse IDE"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot"/>
 </div>
-
-
 
 ---
 
