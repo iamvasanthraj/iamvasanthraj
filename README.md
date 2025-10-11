@@ -13,12 +13,15 @@ Student @ KLN COLLEGE OF ENGINEERING
 - ⚡ Fun fact: I know Editing.
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" /> 
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> 
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+</div>
+
 
 
 ### IDE and Tools I Use
