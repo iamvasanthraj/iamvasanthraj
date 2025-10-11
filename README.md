@@ -38,10 +38,11 @@ Student @ **KLN College of Engineering**
 ---
 
 ### 📊 GitHub Stats
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-![Vasanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvasanthraj&theme=react&show_icons=true&hide_border=false&count_private=true)  
-![Vasanth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvasanthraj&theme=react&show_icons=true&hide_border=false&layout=compact)
-</div>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamvasanthraj&theme=react&show_icons=true&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvasanthraj&theme=react&show_icons=true&hide_border=false&layout=compact" width="48%" />
+</p>
+
 
 ---
 
