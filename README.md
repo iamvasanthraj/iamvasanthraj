@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Vasanth Raj
 
 Student @ **KLN College of Engineering**  
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Tech Animation"/>
 
 - 🔭 Check out my [Portfolio](https://iamvasanthraj.github.io/)
 - 🌱 Currently learning **Java & DSA**
