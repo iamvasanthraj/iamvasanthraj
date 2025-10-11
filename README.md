@@ -31,9 +31,10 @@ Student @ **KLN College of Engineering**
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" title="Git"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma"/>
-  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Eclipse_logo_2014.svg" title="Eclipse IDE"/>
-  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" title="Spring Boot"/>
+  <img height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/eclipseide.svg" title="Eclipse IDE"/>
+  <img height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg" title="Spring Boot"/>
 </div>
+
 
 
 ---
