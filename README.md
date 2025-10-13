@@ -17,9 +17,6 @@
 
 ## 📫 Let's Connect
 
-<div align="center">
-
-### 🌐 Professional Networks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamvasanthraj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iamvasanthraj.github.io/)
@@ -27,14 +24,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanthraj.official@gmail.com)
 
 
-</div>
 
 ---
 ## 🚀 Featured Projects
 
 <div align="center">
-
-### **💼 Enterprise Grade Applications**
 
 <table>
   <tr>
@@ -155,7 +149,8 @@
 
 <div align="center">
 
-### 🚀 Performance Metrics
+
+
 
 <!-- Stats Grid -->
 <table>
@@ -193,7 +188,7 @@
 
 <div align="center">
 
-### **🚀 Skill Progression & Goals**
+
 
 <table>
   <tr>
@@ -270,16 +265,22 @@
 
 <div align="center">
 
+
 ### 📜 Favorite Quotes
+
 
 > "The only way to do great work is to love what you do."
 > "First, solve the problem. Then, write the code." 
 
+
 ### 🌟 Support My Work
+
 
 If you find my projects interesting or helpful, please consider giving them a ⭐!
 
+
 **Thank you for visiting my profile!** 🚀
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer&animation=fadeIn&reversal=true)
 
