@@ -1,12 +1,19 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=🚀%20Vasanth%20Raj%20🚀&fontSize=65&fontAlignY=35&color=0:00c6ff,100:0072ff&fontColor=ffffff&animation=twinkling&desc=💻%20Full-Stack%20Developer%20•%20Java%20Specialist%20•%20Tech%20Enthusiast&descAlignY=65&descAlign=50&descSize=20&stroke=ffffff&strokeWidth=1)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=🚀+VASANTH+RAJ+🚀;Full-Stack+Developer;Java+Specialist;Tech+Innovator" alt="Typing SVG" />
+</p>
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:ff6a00,100:ee0979&height=200&section=header&text=Vasanth%20Raj&fontSize=65&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Java%20Specialist%20%7C%20Tech%20Explorer&descAlignY=70&descSize=18)
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Vasanth%20Raj&text2=Full%20Stack%20Developer&width=900&height=200" alt="Glitch Banner" />
+</p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=250&section=header&text=✨%20Vasanth%20Raj%20✨&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20•%20Java%20Specialist&descAlignY=65&descAlign=50&descSize=20)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=4000&pause=1000&color=1DF2F0&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Vasanth+Raj;Full+Stack+Developer;Java+Specialist;Building+Tech+with+Passion" />
+</p>
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=0:00c3ff,100:ffff1c&height=240&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blinking&desc=☕%20Java%20Specialist%20•%20Full-Stack%20Developer&descAlignY=70&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
+
 
 </div>
 
