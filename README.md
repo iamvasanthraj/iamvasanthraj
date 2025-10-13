@@ -20,9 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&animation=spin)](https://www.linkedin.com/in/iamvasanthraj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white&labelColor=FF6B6B&color=FF6B6B&animation=pulse)](https://iamvasanthraj.github.io/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imvasanthraj003%40gmail.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=imvasanthraj003@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717&animation=bounce)](https://github.com/iamvasanthraj)
 
 </div>
