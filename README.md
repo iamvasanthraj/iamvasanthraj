@@ -36,7 +36,7 @@
 
 #### 📈 Activity Metrics
 ![Total Stars](https://img.shields.io/github/stars/iamvasanthraj?style=for-the-badge&color=yellow&label=Stars&logo=github)
-![Contributions](https://img.shields.io/github/commit-activity/m/iamvasanthraj?style=for-the-badge&color=green&label=Monthly%20Commits)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-500%2B-green?style=for-the-badge&logo=git)
 ![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=for-the-badge&logo=codeigniter)
 
 </td>
@@ -44,8 +44,6 @@
 </table>
 
 </div>
-
----
 
 ## 🛠️ Tech Stack & Expertise
 
