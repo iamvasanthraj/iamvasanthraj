@@ -1,52 +1,97 @@
-# Hi there 👋, I'm Vasanth Raj
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Vasanth Raj
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vasanth%20Raj&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Java%20Enthusiast&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Vasanth%20Raj&fontSize=70&fontAlignY=35&animation=scaleIn&desc=Full-Stack%20Developer%20•%20Java%20Specialist&descAlignY=65&descSize=20&fontColor=ffffff)
 
 </div>
 
+<div align="center">
+
 **🎓 Computer Science Student @ KLN College of Engineering**  
+**💻 Full-Stack Developer | Java Enthusiast**  
 **📍 Bengaluru, Karnataka, India**  
-**💼 Seeking Software Development Internships & Entry-Level Positions**
+**🚀 Seeking Software Development Opportunities**
+
+</div>
+
+---
+
+## 📊 Quick Stats
+
+<div align="center">
+
+<!-- Stats Row -->
+<table width="100%">
+<tr>
+<td width="50%">
+
+#### 🏆 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=iamvasanthraj&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/iamvasanthraj?color=lightgrey&label=Followers&style=flat-square)
+![Stars](https://img.shields.io/github/stars/iamvasanthraj?color=yellow&label=Total%20Stars&style=flat-square)
+
+</td>
+<td width="50%">
+
+#### 📈 Activity Metrics
+![Contributions](https://img.shields.io/github/commit-activity/m/iamvasanthraj?color=green&label=Monthly%20Commits&style=flat-square)
+![Repositories](https://img.shields.io/badge/Repositories-15+-blue?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack & Expertise
 
-### **Frontend Development**
+### **💻 Programming Languages**
 <div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-### **Backend & Databases**
+### **🌐 Frontend Development**
 <div align="center">
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
-### **Tools & Platforms**
+### **⚙️ Backend & Databases**
 <div align="center">
-  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### **🛠️ Tools & DevOps**
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -56,22 +101,23 @@
 
 <div align="center">
 
-### 🏆 GitHub Stats
+### 🚀 Performance Metrics
 
+<!-- Stats Grid -->
 <table>
   <tr>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=iamvasanthraj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" 
+        src="https://github-readme-stats.vercel.app/api?username=iamvasanthraj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=GitHub+Stats"
         alt="GitHub Stats" 
-        height="195"
+        height="200"
       />
     </td>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=58a6ff"
         alt="GitHub Streak" 
-        height="195"
+        height="200"
       />
     </td>
   </tr>
@@ -79,25 +125,25 @@
   <tr>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvasanthraj&theme=radical&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvasanthraj&theme=radical&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&exclude_repo=github-readme-stats"
         alt="Top Languages" 
-        height="195"
+        height="200"
       />
     </td>
     <td align="center" width="50%">
       <img 
-        src="https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" 
+        src="https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&rank=-C,-B"
         alt="GitHub Trophy" 
-        height="195"
+        height="200"
       />
     </td>
   </tr>
 </table>
 
-### 📈 Contribution Graph
+### 📈 Contribution Analytics
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117&custom_title=Contribution+Graph"
   alt="GitHub Activity Graph" 
   width="100%"
 />
@@ -106,72 +152,17 @@
 
 ---
 
-## 🎯 Currently Focusing On
-
-<div align="center">
-
-| Area | Technologies |
-|------|-------------|
-| **Backend Development** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat) |
-| **Frontend Development** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat) |
-| **Database & APIs** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat) ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat) |
-| **Problem Solving** | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat) ![DSA](https://img.shields.io/badge/-Data%20Structures-00D8FF?style=flat) |
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### 🔥 Course Management System
-> Spring Boot & MySQL backend with REST APIs
-<div align="left">
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
-
-</div>
-
-### 🎨 Portfolio Website
-> Modern responsive design with optimized performance
-<div align="left">
-  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamvasanthraj/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iamvasanthraj.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanthraj.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)
-
-</div>
-
----
-
-## 📚 Learning Journey
+## 🎯 Current Focus & Learning Path
 
 ```mermaid
-graph TD
-    A[Computer Science Fundamentals] --> B[Web Development]
-    A --> C[Java Programming]
-    B --> D[Frontend Technologies]
-    B --> E[Backend Development]
-    C --> F[Spring Framework]
-    D --> G[React.js]
-    E --> H[Spring Boot]
-    F --> I[System Design]
-    G --> J[Advanced React]
-    H --> I
+timeline
+    title Learning Journey 2024
+    section Backend Development
+        Spring Boot & Microservices : Advanced Java Concepts
+        REST APIs & Security : Database Optimization
+    section Frontend Development
+        React Advanced Patterns : Next.js & SSR
+        State Management : Performance Optimization
+    section DevOps & Tools
+        Docker & Containers : CI/CD Pipelines
+        Cloud Platforms : System Design
