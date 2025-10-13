@@ -36,6 +36,7 @@
 | • RESTful APIs & Microservices<br>• Database Design & Optimization<br>• Role-based Access Control<br>• Real-time Notifications<br>• JWT Authentication | • Fully Responsive Design<br>• Performance Optimization<br>• SEO Best Practices<br>• Dark/Light Theme<br>• Smooth Animations |
 | [![View Project](https://img.shields.io/badge/🔗_View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/course-management) [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://course-demo.com) | [![View Project](https://img.shields.io/badge/🔗_View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/portfolio) [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://iamvasanthraj.github.io/) |
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -65,6 +66,8 @@
 ## 📈 LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pmvashari007?theme=dark&border=0)
+
+---
 
 ## 📊 GitHub Analytics
 
