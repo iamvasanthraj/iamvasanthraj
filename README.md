@@ -72,8 +72,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj)
+![GitHub Streak](https://streak-stats.demolab.com/?user=iamvasanthraj)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-bg=true&no-frame=true&margin-w=20)
 
