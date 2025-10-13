@@ -1,12 +1,6 @@
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=shapes&color=gradient&height=280&section=header&text=Vasanth%20Raj&fontSize=75&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Java%20%7C%20React%20%7C%20Spring&descAlignY=72)
 
-![Header](https://capsule-render.vercel.app/api?type=egg&color=0:ff6b6b,100:ffa726&height=260&section=header&text=Vasanth%20Raj&fontSize=70&fontAlignY=45&fontColor=ffffff&desc=Full-Stack%20Developer&descAlignY=75&rotate=10)
-
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=250&section=header&text=Vasanth%20Raj&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=blink&desc=Code%20•%20Create%20•%20Innovate&descAlignY=68)
-
-![Header](https://capsule-render.vercel.app/api?type=edges&color=gradient&height=270&section=header&text=VASANTH%20RAJ&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=scale&desc=Passionate%20Developer&descAlignY=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Vasanth%20Raj&fontSize=70&fontAlignY=35&animation=scaleIn&desc=Full-Stack%20Developer%20•%20Java%20Specialist&descAlignY=65&descSize=20&fontColor=ffffff)
 
 </div>
 
@@ -25,6 +19,7 @@
 
 <div align="center">
 
+<!-- Stats Row -->
 <table width="100%">
 <tr>
 <td width="50%" align="center">
@@ -48,51 +43,43 @@
 
 </div>
 
----
-
 ## 🛠️ Tech Stack & Expertise
 
 ### **💻 Programming Languages**
-<div align="center" style="margin: 20px 0;">
+
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ### **🌐 Frontend Development**
-<div align="center" style="margin: 20px 0;">
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</div>
+
 
 ### **⚙️ Backend & Databases**
-<div align="center" style="margin: 20px 0;">
+
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 ### **🛠️ Tools & DevOps**
-<div align="center" style="margin: 20px 0;">
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -104,20 +91,14 @@
 
 ### 🚀 Performance Metrics
 
+<!-- Stats Grid -->
 <table>
   <tr>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=iamvasanthraj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=GitHub+Stats"
-        alt="GitHub Stats" 
-        height="195"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
         alt="GitHub Streak" 
-        height="195"
+        height="200"
       />
     </td>
   </tr>
@@ -125,29 +106,15 @@
   <tr>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvasanthraj&theme=radical&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
-        alt="Top Languages" 
-        height="195"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img 
         src="https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"
         alt="GitHub Trophy" 
-        height="195"
+        height="200"
       />
     </td>
   </tr>
 </table>
 
 ### 📈 Contribution Analytics
-
-<div style="margin: 20px 0;">
-  
-![Last Commit](https://img.shields.io/github/last-commit/iamvasanthraj/iamvasanthraj?style=for-the-badge&color=blue&label=Last%20Commit&logo=github)
-![Commit Activity](https://img.shields.io/badge/Commit%20Activity-Active-success?style=for-the-badge&logo=github)
-
-</div>
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117"
@@ -158,6 +125,7 @@
 </div>
 
 ---
+
 
 ## 🌟 Featured Projects
 
@@ -170,7 +138,7 @@
 #### **📚 Course Management System**
 > Advanced Spring Boot application with REST APIs
 
-<div align="left" style="margin: 10px 0;">
+<div align="left">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -178,11 +146,10 @@
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 
 </div>
-• **RESTful APIs** with JWT Authentication<br>
-• **Database design** & optimization strategies<br>
-• **CRUD operations** & complex business logic<br>
-• **Error handling** & comprehensive validation<br>
-• **Microservices** architecture implementation
+• RESTful APIs with JWT Authentication<br>
+• Database design & optimization<br>
+• CRUD operations & business logic<br>
+• Error handling & validation
 
 </td>
 <td width="50%">
@@ -190,7 +157,7 @@
 #### **🎨 Portfolio Website**
 > Modern responsive design with optimized performance
 
-<div align="left" style="margin: 10px 0;">
+<div align="left">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -198,11 +165,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 </div>
-• **Responsive design** principles across devices<br>
-• **Performance optimization** & lazy loading<br>
-• **Cross-browser compatibility** testing<br>
-• **SEO best practices** implementation<br>
-• **Modern UI/UX** design patterns
+• Responsive design principles<br>
+• Performance optimization<br>
+• Cross-browser compatibility<br>
+• SEO best practices
 
 </td>
 </tr>
@@ -233,34 +199,14 @@
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-#### ✅ Completed
-• Master Core Java Concepts<br>
-• Build Full-Stack Applications<br>
-• Learn React Fundamentals
-
-</td>
-<td width="33%" align="center">
-
-#### 🔄 In Progress
-• Learn Spring Framework Deeply<br>
-• Contribute to Open Source<br>
-• Advanced System Design
-
-</td>
-<td width="33%" align="center">
-
-#### ⏳ Planned
-• Master System Design<br>
-• Learn Cloud Technologies<br>
-• Microservices Architecture
-
-</td>
-</tr>
-</table>
+| Status | Goal | Progress |
+|--------|------|----------|
+| ✅ | Master Core Java Concepts | 100% |
+| ✅ | Build Full-Stack Applications | 100% |
+| 🔄 | Learn Spring Framework Deeply | 75% |
+| 🔄 | Contribute to Open Source | 60% |
+| ⏳ | Master System Design | 40% |
+| ⏳ | Learn Cloud Technologies | 30% |
 
 </div>
 
@@ -270,12 +216,12 @@
 
 ### 📜 Favorite Quotes
 
-> **"The only way to do great work is to love what you do."** - *Steve Jobs*  
-> **"First, solve the problem. Then, write the code."** - *John Johnson*
+> "The only way to do great work is to love what you do." - **Steve Jobs**  
+> "First, solve the problem. Then, write the code." - **John Johnson**
 
 ### 🌟 Support My Work
 
-**If you find my projects interesting or helpful, please consider giving them a ⭐!**
+If you find my projects interesting or helpful, please consider giving them a ⭐!
 
 **Thank you for visiting my profile!** 🚀
 
