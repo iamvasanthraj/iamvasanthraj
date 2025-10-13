@@ -9,7 +9,8 @@
 **🎓 Computer Science Student @ KLN College of Engineering**  
 **💻 Full-Stack Developer | Java Enthusiast**  
 **📍 Bengaluru, Karnataka, India**  
-**🚀 Seeking Software Development Opportunities**
+
+##🚀 Seeking Software Development Opportunities**
 
 </div>
 
@@ -17,9 +18,10 @@
 
 <div align="center">
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>](https://www.linkedin.com/in/iamvasanthraj/)
-[<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/>](https://iamvasanthraj.github.io/)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>](mailto:imvasanthraj003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&animation=spin)](https://www.linkedin.com/in/iamvasanthraj/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white&labelColor=FF6B6B&color=FF6B6B&animation=pulse)](https://iamvasanthraj.github.io/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335&animation=shake)](mailto:imvasanthraj003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717&animation=bounce)](https://github.com/iamvasanthraj)
 
 </div>
 
