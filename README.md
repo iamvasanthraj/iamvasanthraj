@@ -17,10 +17,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamvasanthraj/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iamvasanthraj.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanthraj.official@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>](https://www.linkedin.com/in/iamvasanthraj/)
+[<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/>](https://iamvasanthraj.github.io/)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>](mailto:imvasanthraj003@gmail.com)
 
 </div>
 
@@ -84,7 +83,7 @@
 
 ## 📈 LeetCode Progress
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/pmvashari007?theme=wtf&font=Syncopate&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pmvashari007?theme=dark&border=0)
 
 ## 📊 GitHub Analytics
 
