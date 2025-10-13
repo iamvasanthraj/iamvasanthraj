@@ -3,7 +3,7 @@
 **Software Engineering Student | Full-Stack Developer | Java Enthusiast**
 
 🎓 **Computer Science Student** @ **KLN College of Engineering**  
-📍 Madurai, Tamil Nadu, India  
+📍 Bengaluru, Karnataka, India  
 💼 Seeking **Software Development Internships & Entry-Level Positions**
 
 ---
