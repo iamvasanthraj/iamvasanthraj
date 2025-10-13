@@ -63,7 +63,6 @@
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -79,7 +78,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -115,7 +113,7 @@
     </td>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=58a6ff"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
         alt="GitHub Streak" 
         height="200"
       />
@@ -125,14 +123,14 @@
   <tr>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvasanthraj&theme=radical&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&exclude_repo=github-readme-stats"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvasanthraj&theme=radical&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
         alt="Top Languages" 
         height="200"
       />
     </td>
     <td align="center" width="50%">
       <img 
-        src="https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&rank=-C,-B"
+        src="https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"
         alt="GitHub Trophy" 
         height="200"
       />
@@ -143,7 +141,7 @@
 ### 📈 Contribution Analytics
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117&custom_title=Contribution+Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117"
   alt="GitHub Activity Graph" 
   width="100%"
 />
@@ -154,15 +152,163 @@
 
 ## 🎯 Current Focus & Learning Path
 
-```mermaid
-timeline
-    title Learning Journey 2024
-    section Backend Development
-        Spring Boot & Microservices : Advanced Java Concepts
-        REST APIs & Security : Database Optimization
-    section Frontend Development
-        React Advanced Patterns : Next.js & SSR
-        State Management : Performance Optimization
-    section DevOps & Tools
-        Docker & Containers : CI/CD Pipelines
-        Cloud Platforms : System Design
+### **📚 Backend Development**
+- Spring Boot & Microservices Architecture
+- REST APIs & Security Implementation
+- Database Design & Optimization
+- System Design Principles
+
+### **🎨 Frontend Development**
+- React Advanced Patterns & Hooks
+- State Management Solutions
+- Performance Optimization
+- Responsive Web Design
+
+### **🔧 DevOps & Tools**
+- Docker & Containerization
+- CI/CD Pipeline Setup
+- Cloud Platform Fundamentals
+- Testing & Debugging Strategies
+
+---
+
+## 🌟 Featured Projects
+
+### **🚀 Enterprise Grade Applications**
+
+<table>
+<tr>
+<td width="50%">
+
+#### **📚 Course Management System**
+> Advanced Spring Boot application with REST APIs
+
+<div align="left">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+
+</div>
+• RESTful APIs with JWT Authentication<br>
+• Database design & optimization<br>
+• CRUD operations & business logic<br>
+• Error handling & validation
+
+</td>
+<td width="50%">
+
+#### **🎨 Portfolio Website**
+> Modern responsive design with optimized performance
+
+<div align="left">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+</div>
+• Responsive design principles<br>
+• Performance optimization<br>
+• Cross-browser compatibility<br>
+• SEO best practices
+
+</td>
+</tr>
+</table>
+
+### **🔧 Utility Projects**
+
+<table>
+<tr>
+<td width="33%">
+
+#### **📊 Task Manager**
+React-based productivity app
+
+</td>
+<td width="33%">
+
+#### **🌦️ Weather App**
+Real-time weather application
+
+</td>
+<td width="33%">
+
+#### **💼 Expense Tracker**
+Financial management tool
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Coding Practice
+
+<div align="center">
+
+### 🏆 Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### 🌐 Professional Networks
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamvasanthraj/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iamvasanthraj.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj)
+
+### 💌 Direct Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanthraj.official@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:)
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+<div align="center">
+
+| Status | Goal |
+|--------|------|
+| ✅ | Master Core Java Concepts |
+| ✅ | Build Full-Stack Applications |
+| 🔄 | Learn Spring Framework Deeply |
+| 🔄 | Contribute to Open Source |
+| ⏳ | Master System Design |
+| ⏳ | Learn Cloud Technologies |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📜 Favorite Quotes
+
+> "The only way to do great work is to love what you do." - **Steve Jobs**  
+> "First, solve the problem. Then, write the code." - **John Johnson**
+
+### 🌟 Support My Work
+
+If you find my projects interesting or helpful, please consider giving them a ⭐!
+
+**Thank you for visiting my profile!** 🚀
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer&animation=fadeIn&reversal=true)
+
+</div>
