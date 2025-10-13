@@ -2,6 +2,20 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=250&section=header&text=✨%20Vasanth%20Raj%20✨&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20•%20Java%20Specialist&descAlignY=65&descAlign=50&descSize=20)
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Vasanth%20Raj&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=scaleIn&desc=Full-Stack%20Developer%20%7C%20Java%20Enthusiast&descAlignY=65&descSize=20)
+
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Vasanth%20Raj&fontSize=60&fontAlignY=45&fontColor=ffffff&animation=twinkling&desc=Building%20Digital%20Solutions&descAlignY=70&descSize=18)
+
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:00c6ff,100:0072ff&height=220&section=header&text=👨‍💻%20Vasanth%20Raj&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=blink&desc=Passionate%20Developer%20%7C%20Problem%20Solver&descAlignY=68&descSize=19)
+
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:3498db&height=200&section=header&text=Vasanth%20Raj&fontSize=55&fontAlignY=45&fontColor=ffffff&animation=scaleIn&desc=Developer%20%7C%20Student%20%7C%20Creator&descAlignY=70&descSize=16)
+
+![Header](https://capsule-render.vercel.app/api?type=transparent&color=0:6a11cb,100:2575fc&height=230&section=header&text=VASANTH%20RAJ&fontSize=60&fontAlignY=42&fontColor=ffffff&animation=fadeIn&desc=Code%20•%20Create%20•%20Innovate&descAlignY=72&descSize=18&stroke=000000&strokeWidth=2)
+
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
+
 
 <div align="center">
 
