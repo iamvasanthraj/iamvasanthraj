@@ -15,55 +15,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### **🚀 Enterprise Grade Applications**
-
-<table>
-<tr>
-<td width="50%">
-
-#### **📚 Course Management System**
-> Advanced Spring Boot application with REST APIs
-
-<div align="left">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
-
-</div>
-• RESTful APIs with JWT Authentication<br>
-• Database design & optimization<br>
-• CRUD operations & business logic<br>
-• Error handling & validation
-
-</td>
-<td width="50%">
-
-#### **🎨 Portfolio Website**
-> Modern responsive design with optimized performance
-
-<div align="left">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-</div>
-• Responsive design principles<br>
-• Performance optimization<br>
-• Cross-browser compatibility<br>
-• SEO best practices
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -77,6 +28,100 @@
 
 
 </div>
+
+---
+## 🚀 Featured Projects
+
+<div align="center">
+
+### **💼 Enterprise Grade Applications**
+
+<table>
+  <tr>
+    <td width="50%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; height: 100%;">
+        <h3 align="center" style="margin: 0 0 15px 0;">🎓 Course Management System</h3>
+        <p align="center" style="margin: 0 0 20px 0; opacity: 0.9;">Advanced Spring Boot application with microservices architecture</p>
+        <div align="center" style="margin-bottom: 20px;">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+          <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
+        </div>
+        <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
+          <h4 style="margin: 0 0 10px 0;">🔧 Key Features</h4>
+          <ul style="margin: 0; padding-left: 20px; text-align: left;">
+            <li>RESTful APIs with JWT Authentication</li>
+            <li>Microservices Architecture</li>
+            <li>Database Design & Optimization</li>
+            <li>Role-based Access Control</li>
+            <li>Real-time Notifications</li>
+          </ul>
+        </div>
+      </div>
+    </td>
+    <td width="50%">
+      <div style="background: linear-gradient(135deg, #ff6b6b 0%, #ffa726 100%); padding: 20px; border-radius: 15px; color: white; height: 100%;">
+        <h3 align="center" style="margin: 0 0 15px 0;">⚡ Portfolio Platform</h3>
+        <p align="center" style="margin: 0 0 20px 0; opacity: 0.9;">Modern responsive design with optimized performance</p>
+        <div align="center" style="margin-bottom: 20px;">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+        </div>
+        <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
+          <h4 style="margin: 0 0 10px 0;">🎨 Features</h4>
+          <ul style="margin: 0; padding-left: 20px; text-align: left;">
+            <li>Responsive Design & Mobile First</li>
+            <li>Performance Optimization</li>
+            <li>SEO Best Practices</li>
+            <li>Dark/Light Theme</li>
+            <li>Animation & Interactions</li>
+          </ul>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+</div>
+
+## 🛠️ Tech Stack & Expertise
+
+### **💻 Programming Languages**
+
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### **🌐 Frontend Development**
+
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+### **⚙️ Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### **🛠️ Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
@@ -105,47 +150,6 @@
 </table>
 
 </div>
-
-## 🛠️ Tech Stack & Expertise
-
-### **💻 Programming Languages**
-
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-### **🌐 Frontend Development**
-
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-
-### **⚙️ Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-### **🛠️ Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
----
 
 ## 📊 GitHub Analytics
 
@@ -185,22 +189,82 @@
 
 ---
 
-
-
-## 🎯 Current Goals
+## 🎯 Development Roadmap
 
 <div align="center">
 
-| Status | Goal | Progress |
-|--------|------|----------|
-| ✅ | Master Core Java Concepts | 100% |
-| ✅ | Build Full-Stack Applications | 100% |
-| 🔄 | Learn Spring Framework Deeply | 75% |
-| 🔄 | Contribute to Open Source | 60% |
-| ⏳ | Master System Design | 40% |
-| ⏳ | Learn Cloud Technologies | 30% |
+### **🚀 Skill Progression & Goals**
 
-</div>
+<table>
+  <tr>
+    <th width="15%">Status</th>
+    <th width="35%">Learning Path</th>
+    <th width="25%">Progress</th>
+    <th width="25%">Technologies</th>
+  </tr>
+  <tr>
+    <td align="center">🎯 <strong>Completed</strong></td>
+    <td>Core Java Fundamentals</td>
+    <td>
+      <div style="background: #e0e0e0; border-radius: 10px; height: 20px;">
+        <div style="background: #4CAF50; height: 100%; border-radius: 10px; width: 100%; text-align: center; color: white; font-size: 12px;">100%</div>
+      </div>
+    </td>
+    <td><code>Java 8+</code> <code>OOP</code> <code>DSA</code></td>
+  </tr>
+  <tr>
+    <td align="center">🎯 <strong>Completed</strong></td>
+    <td>Full-Stack Development</td>
+    <td>
+      <div style="background: #e0e0e0; border-radius: 10px; height: 20px;">
+        <div style="background: #4CAF50; height: 100%; border-radius: 10px; width: 100%; text-align: center; color: white; font-size: 12px;">100%</div>
+      </div>
+    </td>
+    <td><code>React</code> <code>Spring Boot</code> <code>MySQL</code></td>
+  </tr>
+  <tr>
+    <td align="center">🔥 <strong>In Progress</strong></td>
+    <td>Advanced Spring Framework</td>
+    <td>
+      <div style="background: #e0e0e0; border-radius: 10px; height: 20px;">
+        <div style="background: #FF9800; height: 100%; border-radius: 10px; width: 75%; text-align: center; color: white; font-size: 12px;">75%</div>
+      </div>
+    </td>
+    <td><code>Spring MVC</code> <code>Spring Security</code> <code>JPA</code></td>
+  </tr>
+  <tr>
+    <td align="center">🔥 <strong>In Progress</strong></td>
+    <td>Open Source Contributions</td>
+    <td>
+      <div style="background: #e0e0e0; border-radius: 10px; height: 20px;">
+        <div style="background: #FF9800; height: 100%; border-radius: 10px; width: 60%; text-align: center; color: white; font-size: 12px;">60%</div>
+      </div>
+    </td>
+    <td><code>Git</code> <code>GitHub</code> <code>PRs</code></td>
+  </tr>
+  <tr>
+    <td align="center">📚 <strong>Learning</strong></td>
+    <td>System Design & Architecture</td>
+    <td>
+      <div style="background: #e0e0e0; border-radius: 10px; height: 20px;">
+        <div style="background: #2196F3; height: 100%; border-radius: 10px; width: 40%; text-align: center; color: white; font-size: 12px;">40%</div>
+      </div>
+    </td>
+    <td><code>Microservices</code> <code>Design Patterns</code> <code>Scalability</code></td>
+  </tr>
+  <tr>
+    <td align="center">📚 <strong>Learning</strong></td>
+    <td>Cloud Technologies & DevOps</td>
+    <td>
+      <div style="background: #e0e0e0; border-radius: 10px; height: 20px;">
+        <div style="background: #2196F3; height: 100%; border-radius: 10px; width: 30%; text-align: center; color: white; font-size: 12px;">30%</div>
+      </div>
+    </td>
+    <td><code>AWS</code> <code>Docker</code> <code>CI/CD</code></td>
+  </tr>
+</table>
+
+
 
 ---
 
