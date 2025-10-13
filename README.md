@@ -90,8 +90,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-bg=true&no-frame=true&margin-w=20)
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamvasanthraj&color=blueviolet&style=for-the-badge)
-![Repositories](https://img.shields.io/badge/Repositories-15+-blue?style=for-the-badge&logo=github)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pmvashari007?theme=nord&font=Imprima&ext=contest)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117)
 
@@ -101,16 +100,18 @@
 
 ## 🎯 Development Roadmap
 
-| Status | Learning Path | Progress | Technologies |
-|--------|---------------|----------|-------------|
-| 🎯 **Completed** | Core Java Fundamentals | ![100%](https://progress-bar.xyz/100/?title=100%&color=4CAF50) | `Java 8+` `OOP` `DSA` |
-| 🎯 **Completed** | Full-Stack Development | ![100%](https://progress-bar.xyz/100/?title=100%&color=4CAF50) | `React` `Spring Boot` `MySQL` |
-| 🔥 **In Progress** | Advanced Spring Framework | ![75%](https://progress-bar.xyz/75/?title=75%&color=FF9800) | `Spring MVC` `Spring Security` `JPA` |
-| 🔥 **In Progress** | Open Source Contributions | ![60%](https://progress-bar.xyz/60/?title=60%&color=FF9800) | `Git` `GitHub` `PRs` |
-| 📚 **Learning** | System Design & Architecture | ![40%](https://progress-bar.xyz/40/?title=40%&color=2196F3) | `Microservices` `Design Patterns` `Scalability` |
-| 📚 **Learning** | Cloud Technologies & DevOps | ![30%](https://progress-bar.xyz/30/?title=30%&color=2196F3) | `AWS` `Docker` `CI/CD` |
+<div style="width: 100%; overflow-x: auto;">
 
----
+| Status | Learning Path | Progress | Technologies |
+|:------:|:-------------:|:--------:|:------------:|
+| ✅ **Completed** | Core Java Fundamentals | ![100%](https://progress-bar.xyz/100/?title=100%&color=4CAF50&width=100) | `Java 8+` `OOP` `DSA` |
+| ✅ **Completed** | Full-Stack Development | ![100%](https://progress-bar.xyz/100/?title=100%&color=4CAF50&width=100) | `React` `Spring Boot` `MySQL` |
+| 🔄 **In Progress** | Advanced Spring Framework | ![75%](https://progress-bar.xyz/75/?title=75%&color=FF9800&width=100) | `Spring MVC` `Security` `JPA` |
+| 🔄 **In Progress** | Open Source Contributions | ![60%](https://progress-bar.xyz/60/?title=60%&color=FF9800&width=100) | `Git` `GitHub` `PRs` |
+| 📖 **Learning** | System Design & Architecture | ![40%](https://progress-bar.xyz/40/?title=40%&color=2196F3&width=100) | `Microservices` `Patterns` `Scalability` |
+| 📖 **Learning** | Cloud Technologies & DevOps | ![30%](https://progress-bar.xyz/30/?title=30%&color=2196F3&width=100) | `AWS` `Docker` `CI/CD` |
+
+</div>
 
 <div align="center">
 
