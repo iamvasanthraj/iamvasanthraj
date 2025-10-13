@@ -2,24 +2,15 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:7928CA,100:FF0080&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=scale&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:00b09b,100:96c93d&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=slide&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:11998e,100:38ef7d&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
-
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ec008c,100:fc6767&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
-
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:4776E6,100:8E54E9&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
-
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6a00,100:ee0979&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
-
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:00416A,100:799F0C&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
-
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
 </div>
 
 <div align="center">
