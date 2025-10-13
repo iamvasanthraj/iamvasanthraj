@@ -27,56 +27,37 @@
 
 ---
 
-## 🚀 Featured Projects
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
-<div align="center">
-## 🚀 Featured Projects
+  <!-- Project 1 -->
+  <div style="flex: 1; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px;">
+    <h3>🎓 Course Management System</h3>
+    <p><em>Advanced Spring Boot application with microservices architecture</em></p>
+    <p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+    </p>
+    <p><strong>🔧 Key Features:</strong> RESTful APIs • Microservices Architecture • Database Design Optimization • Role-based Access Control • Real-time Notifications</p>
+  </div>
 
-<div align="center">
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-
-<div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.2);">
-
-### 🎓 Course Management System
-*Spring Boot Microservices*
-
-<div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-</div>
-
-- RESTful APIs & Microservices
-- Database Optimization
-- JWT Authentication
-- Real-time Features
-
-</div>
-
-<div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.2);">
-
-### ⚡ Portfolio Platform
-*Modern Responsive Design*
-
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-</div>
-
-- Responsive Design
-- Performance Optimized
-- SEO Friendly
-- Dark/Light Theme
+  <!-- Project 2 -->
+  <div style="flex: 1; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px;">
+    <h3>⚡ Portfolio Platform</h3>
+    <p><em>Modern responsive design with optimized performance</em></p>
+    <p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    </p>
+    <p><strong>🎨 Features:</strong> Responsive Design • Performance Optimization • SEO Best Practices • Dark/Light Theme • Animation & Interactions</p>
+  </div>
 
 </div>
 
-</div>
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
