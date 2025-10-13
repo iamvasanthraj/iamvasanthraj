@@ -21,13 +21,12 @@ I'm a passionate computer science student with a strong foundation in full-stack
 
 ---
 
-## 📞 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamvasanthraj/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iamvasanthraj.github.io/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanthraj.official@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj)
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamvasanthraj/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iamvasanthraj.github.io/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanthraj.official@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj)
+</div>
 ---
 
 ## 💻 Technical Proficiency
@@ -73,7 +72,7 @@ I'm a passionate computer science student with a strong foundation in full-stack
 ## 🏆 Coding Profiles
 
 ### LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/iamvasanthraj?theme=dark&font=Marcellus&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pmvashari007?theme=dark&font=Marcellus&ext=contest)
 
 ---
 
@@ -85,7 +84,6 @@ I'm a passionate computer science student with a strong foundation in full-stack
 
 ## 🌟 Featured Projects
 
-- **E-Commerce Platform** - Full-stack React & Java application with payment integration  
 - **Course Management System** - Spring Boot & MySQL backend with REST APIs  
 - **Portfolio Website** - Modern responsive design with optimized performance  
 
