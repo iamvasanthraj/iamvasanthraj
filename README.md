@@ -10,7 +10,7 @@
 **💻 Full-Stack Developer | Java Enthusiast**  
 **📍 Bengaluru, Karnataka, India**  
 
-##🚀 Seeking Software Development Opportunities**
+**🚀 Seeking Software Development Opportunities**
 
 </div>
 
@@ -40,7 +40,8 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-**🔧 Key Features:** RESTful APIs • Microservices Architecture • Database Design & Optimization • Role-based Access Control • Real-time Notifications
+**🔧 Key Features:** RESTful APIs • Microservices Architecture • Database Design 
+Optimization • Role-based Access Control • Real-time Notifications
 
 <br>
 
@@ -52,7 +53,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**🎨 Features:** Responsive Design • Performance Optimization • SEO Best Practices • Dark/Light Theme • Animation & Interactions
+**🎨 Features:** Responsive Design • Performance Optimization • SEO Best Practices 
+• Dark/Light Theme • Animation & Interactions
 
 </div>
 
