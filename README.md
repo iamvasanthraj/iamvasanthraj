@@ -27,36 +27,20 @@
 
 ---
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+## 🚀 Featured Projects
 
-  <!-- Project 1 -->
-  <div style="flex: 1; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px;">
-    <h3>🎓 Course Management System</h3>
-    <p><em>Advanced Spring Boot application with microservices architecture</em></p>
-    <p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-    </p>
-    <p><strong>🔧 Key Features:</strong> RESTful APIs • Microservices Architecture • Database Design Optimization • Role-based Access Control • Real-time Notifications</p>
-  </div>
+<div align="center">
 
-  <!-- Project 2 -->
-  <div style="flex: 1; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px;">
-    <h3>⚡ Portfolio Platform</h3>
-    <p><em>Modern responsive design with optimized performance</em></p>
-    <p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    </p>
-    <p><strong>🎨 Features:</strong> Responsive Design • Performance Optimization • SEO Best Practices • Dark/Light Theme • Animation & Interactions</p>
-  </div>
+| 🎓 Course Management System | ⚡ Portfolio Platform |
+|:----------------------------|:---------------------|
+| *Advanced Spring Boot microservices application* | *Modern responsive design with optimized performance* |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Features:** RESTful APIs • Microservices • Database Optimization • RBAC • Real-time Notifications | **Features:** Responsive Design • Performance • SEO • Dark/Light Theme • Animations |
+| [🔗 View Project](#) | [🔗 Live Demo](https://iamvasanthraj.github.io/) |
 
 </div>
+
+---
 
 
 ## 🛠️ Tech Stack
