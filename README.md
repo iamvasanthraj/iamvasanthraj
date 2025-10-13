@@ -30,31 +30,49 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+## 🚀 Featured Projects
+
+<div align="center">
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
+<div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.2);">
 
 ### 🎓 Course Management System
-*Advanced Spring Boot application with microservices architecture*
+*Spring Boot Microservices*
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+</div>
 
-**🔧 Key Features:** RESTful APIs • Microservices Architecture • Database Design 
-Optimization • Role-based Access Control • Real-time Notifications
+- RESTful APIs & Microservices
+- Database Optimization
+- JWT Authentication
+- Real-time Features
 
-<br>
+</div>
+
+<div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.2);">
 
 ### ⚡ Portfolio Platform
-*Modern responsive design with optimized performance*
+*Modern Responsive Design*
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+</div>
 
-**🎨 Features:** Responsive Design • Performance Optimization • SEO Best Practices 
-• Dark/Light Theme • Animation & Interactions
+- Responsive Design
+- Performance Optimized
+- SEO Friendly
+- Dark/Light Theme
+
+</div>
+
+</div>
 
 </div>
 
