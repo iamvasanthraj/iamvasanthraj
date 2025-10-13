@@ -15,118 +15,6 @@
 
 ---
 
-## 📊 Quick Stats
-
-<div align="center">
-
-<!-- Stats Row -->
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-#### 🏆 Profile Stats
-![Profile Views](https://komarev.com/ghpvc/?username=iamvasanthraj&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/iamvasanthraj?style=for-the-badge&color=lightgrey&label=Followers&logo=github)
-![Repositories](https://img.shields.io/badge/Repositories-15+-blue?style=for-the-badge&logo=github)
-
-</td>
-<td width="50%" align="center">
-
-#### 📈 Activity Metrics
-![Total Stars](https://img.shields.io/github/stars/iamvasanthraj?style=for-the-badge&color=yellow&label=Stars&logo=github)
-![Total Commits](https://img.shields.io/badge/Total%20Commits-500%2B-green?style=for-the-badge&logo=git)
-![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=for-the-badge&logo=codeigniter)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🛠️ Tech Stack & Expertise
-
-### **💻 Programming Languages**
-
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-### **🌐 Frontend Development**
-<div align="center">
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-
-### **⚙️ Backend & Databases**
-
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-### **🛠️ Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 🚀 Performance Metrics
-
-<!-- Stats Grid -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
-        alt="GitHub Streak" 
-        height="200"
-      />
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="50%">
-      <img 
-        src="https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"
-        alt="GitHub Trophy" 
-        height="200"
-      />
-    </td>
-  </tr>
-</table>
-
-### 📈 Contribution Analytics
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117"
-  alt="GitHub Activity Graph" 
-  width="100%"
-/>
-
-</div>
-
----
-
-
 ## 🌟 Featured Projects
 
 ### **🚀 Enterprise Grade Applications**
@@ -185,15 +73,119 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamvasanthraj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iamvasanthraj.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj)
-
-### 💌 Direct Contact
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanthraj.official@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 
 </div>
 
 ---
+
+## 📊 Quick Stats
+
+<div align="center">
+
+<!-- Stats Row -->
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+#### 🏆 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=iamvasanthraj&color=blueviolet&style=for-the-badge)
+![Repositories](https://img.shields.io/badge/Repositories-15+-blue?style=for-the-badge&logo=github)
+
+</td>
+<td width="50%" align="center">
+
+#### 📈 Activity Metrics
+![Total Commits](https://img.shields.io/badge/Total%20Commits-500%2B-green?style=for-the-badge&logo=git)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=for-the-badge&logo=codeigniter)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🛠️ Tech Stack & Expertise
+
+### **💻 Programming Languages**
+
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### **🌐 Frontend Development**
+
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+
+### **⚙️ Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+### **🛠️ Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🚀 Performance Metrics
+
+<!-- Stats Grid -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
+        alt="GitHub Streak" 
+        height="200"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"
+        alt="GitHub Trophy" 
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
+
+### 📈 Contribution Analytics
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117"
+  alt="GitHub Activity Graph" 
+  width="100%"
+/>
+
+</div>
+
+---
+
+
 
 ## 🎯 Current Goals
 
@@ -216,8 +208,8 @@
 
 ### 📜 Favorite Quotes
 
-> "The only way to do great work is to love what you do." - **Steve Jobs**  
-> "First, solve the problem. Then, write the code." - **John Johnson**
+> "The only way to do great work is to love what you do."
+> "First, solve the problem. Then, write the code." 
 
 ### 🌟 Support My Work
 
