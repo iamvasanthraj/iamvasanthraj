@@ -87,7 +87,8 @@
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-bg=true&no-frame=true&margin-w=20)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iamvasanthraj&color=blueviolet&style=for-the-badge)
 ![Repositories](https://img.shields.io/badge/Repositories-15+-blue?style=for-the-badge&logo=github)
