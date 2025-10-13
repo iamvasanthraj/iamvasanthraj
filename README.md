@@ -21,12 +21,15 @@ I'm a passionate computer science student with a strong foundation in full-stack
 
 ---
 
+## 📞 Connect With Me
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamvasanthraj/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iamvasanthraj.github.io/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanthraj.official@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj)
+  <a href="https://www.linkedin.com/in/iamvasanthraj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://iamvasanthraj.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:vasanthraj.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/iamvasanthraj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
+
 ---
 
 ## 💻 Technical Proficiency
@@ -59,9 +62,9 @@ I'm a passionate computer science student with a strong foundation in full-stack
 
 <div align="center">
 
-![Vasanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvasanthraj&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvasanthraj&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=react&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=react&hide_border=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvasanthraj&theme=react&hide_border=true&layout=compact&langs_count=8)
 
@@ -78,7 +81,7 @@ I'm a passionate computer science student with a strong foundation in full-stack
 
 ## 📈 Contribution Activity
 
-[![Vasanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&bg_color=0D1117&color=FFFFFF&line=00FF00&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&bg_color=0D1117&color=FFFFFF&line=00FF00&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -86,14 +89,6 @@ I'm a passionate computer science student with a strong foundation in full-stack
 
 - **Course Management System** - Spring Boot & MySQL backend with REST APIs  
 - **Portfolio Website** - Modern responsive design with optimized performance  
-
----
-
-## 📊 GitHub Metrics
-
-![Profile Views](https://komarev.com/ghpvc/?username=iamvasanthraj&color=blue&style=flat-square)  
-![Followers](https://img.shields.io/github/followers/iamvasanthraj?style=social)  
-![Stars](https://img.shields.io/github/stars/iamvasanthraj?style=social)  
 
 ---
 
