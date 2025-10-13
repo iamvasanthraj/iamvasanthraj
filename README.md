@@ -1,18 +1,20 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=🚀+VASANTH+RAJ+🚀;Full-Stack+Developer;Java+Specialist;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🚀+VASANTH+RAJ+🚀;Full-Stack+Developer;Java+Specialist;AI+Enthusiast" alt="Typing SVG"/>
 </p>
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Vasanth%20Raj&text2=Tech%20Innovator&width=900&height=180" />
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Vasanth%20Raj&text2=Full%20Stack%20Developer&width=900&height=200" alt="Glitch Banner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamvasanthraj&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7928CA,100:FF0080&animation=twinkling" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=4000&pause=1000&color=1DF2F0&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Vasanth+Raj;Full+Stack+Developer;Java+Specialist;Building+Tech+with+Passion" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=4000&pause=1000&color=1DF2F0&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Vasanth+Raj;Full+Stack+Developer;Java+Specialist;Building+Tech+with+Passion" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&animation=twinkling" />
 
 
 </div>
