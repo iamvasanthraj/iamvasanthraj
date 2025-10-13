@@ -1,16 +1,13 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=blink&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=shapes&color=gradient&height=280&section=header&text=Vasanth%20Raj&fontSize=75&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Java%20%7C%20React%20%7C%20Spring&descAlignY=72)
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=egg&color=0:ff6b6b,100:ffa726&height=260&section=header&text=Vasanth%20Raj&fontSize=70&fontAlignY=45&fontColor=ffffff&desc=Full-Stack%20Developer&descAlignY=75&rotate=10)
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=scale&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=250&section=header&text=Vasanth%20Raj&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=blink&desc=Code%20•%20Create%20•%20Innovate&descAlignY=68)
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=edges&color=gradient&height=270&section=header&text=VASANTH%20RAJ&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=scale&desc=Passionate%20Developer&descAlignY=70)
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&animation=slide&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
-
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,100:ffa726&height=240&section=header&text=Vasanth%20Raj&fontSize=68&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20%7C%20Java%20%7C%20React&descAlignY=67&descSize=20)
 </div>
 
 <div align="center">
