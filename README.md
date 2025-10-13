@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Vasanth%20Raj&fontSize=60&fontAlignY=35&animation=scaleIn&desc=Full-Stack%20Developer%20•%20Java%20Specialist&descAlignY=65&descSize=18&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Vasanth%20Raj&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20•%20Java%20Specialist&descAlignY=70&descSize=20&fontColor=ffffff&descColor=ffffff)
 
 </div>
 
