@@ -64,34 +64,60 @@ I'm a passionate computer science student with a strong foundation in full-stack
 
 ### 🚀 GitHub Stats & Activity
 
+<div align="center">
+
+### 🚀 GitHub Stats & Activity
+
 <table>
   <tr>
-    <td>
+    <!-- GitHub Stats -->
+    <td align="center" width="50%">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=iamvasanthraj&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" 
         alt="GitHub Stats" 
-        height="200" 
+        height="195"
       />
     </td>
-    <td>
+    <!-- GitHub Streak -->
+    <td align="center" width="50%">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=iamvasanthraj&theme=react&hide_border=true" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=react&hide_border=true" 
         alt="GitHub Streak" 
-        height="200" 
+        height="195"
+      />
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Top Languages -->
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvasanthraj&theme=react&hide_border=true&layout=compact" 
+        alt="Top Languages" 
+        height="195"
+      />
+    </td>
+    <!-- GitHub Trophy -->
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=react&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" 
+        alt="GitHub Trophy" 
+        height="195"
       />
     </td>
   </tr>
 </table>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvasanthraj&theme=react&hide_border=true&layout=compact" 
-  alt="Top Languages" 
-  height="200" 
-/>
-
 <br/>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&theme=react-dark&hide_border=true)
+<!-- Activity Graph -->
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&theme=react-dark&hide_border=true&area=true" 
+    alt="GitHub Activity Graph" 
+    width="100%"
+  />
+</div>
 
 </div>
 
