@@ -58,15 +58,16 @@ I'm a passionate computer science student with a strong foundation in full-stack
 
 ---
 
+## 🏆 Coding Profiles
+
+### LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/pmvashari007?theme=dark&font=Marcellus&ext=contest)
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-### 🚀 GitHub Stats & Activity
-
-<div align="center">
-
-### 🚀 GitHub Stats & Activity
 
 <table>
   <tr>
@@ -124,18 +125,9 @@ I'm a passionate computer science student with a strong foundation in full-stack
 
 ---
 
-## 🏆 Coding Profiles
 
-### LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/pmvashari007?theme=dark&font=Marcellus&ext=contest)
 
----
 
-## 📈 Contribution Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamvasanthraj&bg_color=0D1117&color=FFFFFF&line=00FF00&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## 🌟 Featured Projects
 
