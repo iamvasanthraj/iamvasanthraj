@@ -26,6 +26,9 @@
 </div>
 
 ---
+## 🚀 Featured Projects
+
+<div align="center">
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
@@ -58,7 +61,7 @@
 
 </div>
 
-
+---
 
 ## 🛠️ Tech Stack
 
