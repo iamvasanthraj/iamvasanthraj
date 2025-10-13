@@ -29,18 +29,68 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="center" style="width: 100%;">
 
-| 🎓 Course Management System | ⚡ Portfolio Platform |
-|:----------------------------|:---------------------|
-| *Advanced Spring Boot microservices application* | *Modern responsive design with optimized performance* |
-| <div align="center"><br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) <br>![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br>![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)</div> | <div align="center"><br>![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) <br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) <br>![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)</div> |
-| <div align="left"> 📋 **Key Features:**<br>• RESTful APIs & Microservices<br>• Database Design & Optimization<br>• Role-based Access Control<br>• Real-time Notifications<br>• JWT Authentication<br>• Containerized Deployment</div> | <div align="left"> 🎨 **Key Features:**<br>• Fully Responsive Design<br>• Performance Optimization<br>• SEO Best Practices<br>• Dark/Light Theme<br>• Smooth Animations<br>• PWA Ready</div> |
-| <div align="center"> [![View Project](https://img.shields.io/badge/🔗_View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/course-management) [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://course-demo.com) </div> | <div align="center"> [![View Project](https://img.shields.io/badge/🔗_View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/portfolio) [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://iamvasanthraj.github.io/) </div> |
+<div style="display: flex; width: 100%; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
+<div style="flex: 1; min-width: 300px; max-width: 48%;">
+
+### 🎓 Course Management System
+*Advanced Spring Boot microservices application*
+
+<div align="center">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+</div>
+
+**📋 Key Features:**
+- RESTful APIs & Microservices
+- Database Design & Optimization
+- Role-based Access Control
+- Real-time Notifications
+- JWT Authentication
+
+<div align="center">
+[![View Project](https://img.shields.io/badge/🔗_View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/course-management)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://course-demo.com)
+</div>
 
 </div>
 
----
+<div style="flex: 1; min-width: 300px; max-width: 48%;">
+
+### ⚡ Portfolio Platform
+*Modern responsive design with optimized performance*
+
+<div align="center">
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
+
+**🎨 Key Features:**
+- Fully Responsive Design
+- Performance Optimization
+- SEO Best Practices
+- Dark/Light Theme
+- Smooth Animations
+
+<div align="center">
+[![View Project](https://img.shields.io/badge/🔗_View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/portfolio)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://iamvasanthraj.github.io/)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 
 ---
 
