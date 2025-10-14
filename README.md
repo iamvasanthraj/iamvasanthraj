@@ -30,41 +30,43 @@
 
 <div align="center">
 
-## 🎓 Course Management System
-*Spring Boot Microservices • React Frontend • Secure & Scalable*
-
-</div>
-
-<br>
+# 🎓 Course Management System
 
 <div align="center">
 
-### 🛠 Tech Stack
+**Streamline learning with our all-in-one educational platform**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 </div>
 
-<br>
+## ✨ Key Features
 
-### ✨ Highlights
-- 🔐 **Secure Authentication** - JWT & Role-based access
-- ⚡ **Microservices Architecture** - Scalable & maintainable  
-- 🎯 **RESTful APIs** - Clean & efficient endpoints
-- 📱 **Modern UI** - Responsive React frontend
-- 🚀 **Production Ready** - Optimized & deployable
+| Students | Instructors |
+|----------|-------------|
+| 📚 Course Enrollment | ➕ Create Courses |
+| 📝 Take Assessments | ✏️ Update Content |
+| 🏆 Get Certificates | 📊 Upload Materials |
+| ⭐ Rate Courses | 🎯 Manage Content |
 
-<br>
+## 🔮 Future Enhancements
+- 👥 **Admin Panel** - User & course management
+- ✅ **Course Approval System** - Quality control
+- 📈 **Analytics Dashboard** - Performance insights
+- 🛡️ **Advanced Security** - Enhanced protection
 
 <div align="center">
 
-[![View Code](https://img.shields.io/badge/📁_View_Code-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/CourseMangement-React)
-[![Live Demo](https://img.shields.io/badge/🎯_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://course-demo.com)
+[📁 View Code](https://github.com/iamvasanthraj/CourseMangement-React) • 
+[🚀 Live Demo](https://course-demo.com)
 
 </div>
+
+---
 
 ## 🛠️ Tech Stack
 
