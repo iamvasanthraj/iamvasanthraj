@@ -115,8 +115,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=0D1117&fire=FF6B6B&currStreakLabel=FF6B6B)
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=00000000)
 
 <br>
 
