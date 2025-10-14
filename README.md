@@ -27,9 +27,9 @@
 
 # 🚀 Featured Project
 
-## 🎓 Course Management System
-
 <div align="center">
+  
+## 🎓 Course Management System
 
 **Streamline learning with our all-in-one educational platform**
 
