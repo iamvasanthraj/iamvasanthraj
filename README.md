@@ -26,36 +26,45 @@
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### 🎓 Course Management System
-*Advanced Spring Boot microservices application*
+<div align="center">
+
+## 🎓 Course Management System
+*Spring Boot Microservices • React Frontend • Secure & Scalable*
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-**Key Features:**
-- RESTful APIs & Microservices Architecture
-- Database Design & Optimization
-- Role-based Access Control (RBAC)
-- Real-time Notifications System
-- JWT Authentication & Authorization
-- Scalable Backend Infrastructure
+</div>
 
-**Technical Highlights:**
-- Microservices with Spring Boot
-- React frontend with modern UI/UX
-- MySQL database with optimized queries
-- Secure API endpoints with JWT
-- Containerized deployment ready
+<br>
 
-[![View Project](https://img.shields.io/badge/🔗_View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/CourseMangement-React)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://course-demo.com)
+### ✨ Highlights
+- 🔐 **Secure Authentication** - JWT & Role-based access
+- ⚡ **Microservices Architecture** - Scalable & maintainable  
+- 🎯 **RESTful APIs** - Clean & efficient endpoints
+- 📱 **Modern UI** - Responsive React frontend
+- 🚀 **Production Ready** - Optimized & deployable
 
----
+<br>
+
+<div align="center">
+
+[![View Code](https://img.shields.io/badge/📁_View_Code-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/CourseMangement-React)
+[![Live Demo](https://img.shields.io/badge/🎯_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://course-demo.com)
+
+</div>
 
 ## 🛠️ Tech Stack
 
