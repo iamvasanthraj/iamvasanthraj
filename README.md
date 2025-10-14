@@ -26,14 +26,34 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-| **🎓 Course Management System** | **⚡ Portfolio Platform** |
-|:---:|:---:|
-| *Advanced Spring Boot microservices application* | *Modern responsive design with optimized performance* |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| • RESTful APIs & Microservices<br>• Database Design & Optimization<br>• Role-based Access Control<br>• Real-time Notifications<br>• JWT Authentication | • Fully Responsive Design<br>• Performance Optimization<br>• SEO Best Practices<br>• Dark/Light Theme<br>• Smooth Animations |
-| [![View Project](https://img.shields.io/badge/🔗_View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/CourseMangement-React) [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://course-demo.com) | [![View Project](https://img.shields.io/badge/🔗_View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/portfolio) [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://iamvasanthraj.github.io/) |
+### 🎓 Course Management System
+*Advanced Spring Boot microservices application*
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+**Key Features:**
+- RESTful APIs & Microservices Architecture
+- Database Design & Optimization
+- Role-based Access Control (RBAC)
+- Real-time Notifications System
+- JWT Authentication & Authorization
+- Scalable Backend Infrastructure
+
+**Technical Highlights:**
+- Microservices with Spring Boot
+- React frontend with modern UI/UX
+- MySQL database with optimized queries
+- Secure API endpoints with JWT
+- Containerized deployment ready
+
+[![View Project](https://img.shields.io/badge/🔗_View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/CourseMangement-React)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://course-demo.com)
 
 ---
 
