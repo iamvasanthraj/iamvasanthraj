@@ -43,25 +43,25 @@
 
 ### ✨ Core Features
 
-<table width="100%">
+<table>
   <tr>
-    <th width="33%">Role</th>
-    <th width="34%">Key Features</th>
-    <th width="33%">Status</th>
+    <th width="20%">Role</th>
+    <th width="60%">Key Features</th>
+    <th width="20%">Status</th>
   </tr>
   <tr>
-    <td><b>👨‍🎓 Students</b></td>
-    <td>📚 Enroll • 📝 Assess • 🏆 Certify • ⭐ Review</td>
+    <td align="center"><b>👨‍🎓 Students</b></td>
+    <td align="center">📚 Enroll &nbsp;&nbsp; • &nbsp;&nbsp; 📝 Assess &nbsp;&nbsp; • &nbsp;&nbsp; 🏆 Certify &nbsp;&nbsp; • &nbsp;&nbsp; ⭐ Review</td>
     <td align="center">✅ Live</td>
   </tr>
   <tr>
-    <td><b>👨‍🏫 Instructors</b></td>
-    <td>➕ Create • 📊 Upload • 🎯 Manage • 📈 Track</td>
+    <td align="center"><b>👨‍🏫 Instructors</b></td>
+    <td align="center">➕ Create &nbsp;&nbsp; • &nbsp;&nbsp; 📊 Upload &nbsp;&nbsp; • &nbsp;&nbsp; 🎯 Manage &nbsp;&nbsp; • &nbsp;&nbsp; 📈 Track</td>
     <td align="center">✅ Live</td>
   </tr>
   <tr>
-    <td><b>👨‍💼 Admin</b></td>
-    <td>👥 Users • ✅ Approve • 📊 Analytics • 🛡️ Controls</td>
+    <td align="center"><b>👨‍💼 Admin</b></td>
+    <td align="center">👥 Users &nbsp;&nbsp; • &nbsp;&nbsp; ✅ Approve &nbsp;&nbsp; • &nbsp;&nbsp; 📊 Analytics &nbsp;&nbsp; • &nbsp;&nbsp; 🛡️ Controls</td>
     <td align="center">🚧 Soon</td>
   </tr>
 </table>
