@@ -30,6 +30,8 @@
 
 # 🎓 Course Management System
 
+<div align="center">
+
 **Streamline learning with our all-in-one educational platform**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -38,21 +40,30 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
+</div>
 
 ## ✨ Key Features
 
-| Students | Instructors |
-|----------|-------------|
-| 📚 Course Enrollment | ➕ Create Courses |
-| 📝 Take Assessments | ✏️ Update Content |
-| 🏆 Get Certificates | 📊 Upload Materials |
-| ⭐ Rate Courses | 🎯 Manage Content |
+| Role | Features |
+|------|----------|
+| **Students** | 📚 Course Enrollment • 📝 Take Assessments • 🏆 Get Certificates • ⭐ Rate Courses |
+| **Instructors** | ➕ Create Courses • ✏️ Update Content • 📊 Upload Materials • 🎯 Manage Content |
+
+## 🔮 Future Enhancements
+
+| Enhancement | Description |
+|-------------|-------------|
+| 👥 Admin Panel | User & course management |
+| ✅ Course Approval System | Quality control |
+| 📈 Analytics Dashboard | Performance insights |
+| 🛡️ Advanced Security | Enhanced protection |
+
+<div align="center">
 
 [📁 View Code](https://github.com/iamvasanthraj/CourseMangement-React) • 
 [🚀 Live Demo](https://course-demo.com)
 
-
----
+</div>
 
 ## 🛠️ Tech Stack
 
