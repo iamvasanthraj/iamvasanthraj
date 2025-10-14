@@ -28,8 +28,6 @@
 
 # 🚀 Featured Project
 
-<div align="center">
-
 # 🎓 Course Management System
 
 <div align="center">
