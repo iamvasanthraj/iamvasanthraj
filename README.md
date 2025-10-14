@@ -41,20 +41,13 @@
 
 </div>
 
+### ✨ Core Features
 
-### ✨ Key Features
-
-| Role | Features |
-|------|----------|
-| **👨‍🎓 Students** | 📚 Course Enrollment • 📝 Take Assessments • 🏆 Get Certificates • ⭐ Rate Courses |
-| **👨‍🏫 Instructors** | ➕ Create Courses • ✏️ Update Content • 📊 Upload Materials • 🎯 Manage Content |
-
-
-### 🔮 Future Enhancements
-
-| Role | Features |
-|------|----------|
-| **👨‍💼 Admin** | 👥 User Management • ✅ Course Approval • 📊 Analytics Dashboard • 🛡️ Security Controls |
+| Role | Key Features | Status |
+|:----:|:------------:|:------:|
+| **👨‍🎓 Students** | 📚 Enroll • 📝 Assess • 🏆 Certify • ⭐ Review | ✅ Live |
+| **👨‍🏫 Instructors** | ➕ Create • 📊 Upload • 🎯 Manage • 📈 Track | ✅ Live |
+| **👨‍💼 Admin** | 👥 Users • ✅ Approve • 📊 Analytics • 🛡️ Controls | 🚧 Soon |
 
 <br>
 
@@ -71,7 +64,6 @@
 
 <div align="center">
 
-## 🎯 Tech Stack & Tools
 
 ### 🗄️ Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
