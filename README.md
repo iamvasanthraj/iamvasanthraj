@@ -43,11 +43,28 @@
 
 ### ✨ Core Features
 
-| Role | Key Features | Status |
-|:----:|:------------:|:------:|
-| **👨‍🎓 Students** | 📚 Enroll • 📝 Assess • 🏆 Certify • ⭐ Review | ✅ Live |
-| **👨‍🏫 Instructors** | ➕ Create • 📊 Upload • 🎯 Manage • 📈 Track | ✅ Live |
-| **👨‍💼 Admin** | 👥 Users • ✅ Approve • 📊 Analytics • 🛡️ Controls | 🚧 Soon |
+<table width="100%">
+  <tr>
+    <th width="33%">Role</th>
+    <th width="34%">Key Features</th>
+    <th width="33%">Status</th>
+  </tr>
+  <tr>
+    <td><b>👨‍🎓 Students</b></td>
+    <td>📚 Enroll • 📝 Assess • 🏆 Certify • ⭐ Review</td>
+    <td align="center">✅ Live</td>
+  </tr>
+  <tr>
+    <td><b>👨‍🏫 Instructors</b></td>
+    <td>➕ Create • 📊 Upload • 🎯 Manage • 📈 Track</td>
+    <td align="center">✅ Live</td>
+  </tr>
+  <tr>
+    <td><b>👨‍💼 Admin</b></td>
+    <td>👥 Users • ✅ Approve • 📊 Analytics • 🛡️ Controls</td>
+    <td align="center">🚧 Soon</td>
+  </tr>
+</table>
 
 <br>
 
