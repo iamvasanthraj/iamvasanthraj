@@ -30,8 +30,6 @@
 
 # 🎓 Course Management System
 
-<div align="center">
-
 **Streamline learning with our all-in-one educational platform**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -39,7 +37,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
 
 
 ## ✨ Key Features
@@ -51,18 +48,9 @@
 | 🏆 Get Certificates | 📊 Upload Materials |
 | ⭐ Rate Courses | 🎯 Manage Content |
 
-## 🔮 Future Enhancements
-- 👥 **Admin Panel** - User & course management
-- ✅ **Course Approval System** - Quality control
-- 📈 **Analytics Dashboard** - Performance insights
-- 🛡️ **Advanced Security** - Enhanced protection
-
-
-
 [📁 View Code](https://github.com/iamvasanthraj/CourseMangement-React) • 
 [🚀 Live Demo](https://course-demo.com)
 
-</div>
 
 ---
 
