@@ -1,13 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Vasanth%20Raj&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20•%20Java%20Specialist&descAlignY=70&descSize=20&fontColor=ffffff&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Vasanth%20Raj&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20•%20Java%20Enthusiast&descAlignY=70&descSize=20&fontColor=ffffff&descColor=ffffff)
 
 </div>
 
 <div align="center">
 
 **🎓 Computer Science Student @ KLN College of Engineering**  
-**💻 Full-Stack Developer | Java Enthusiast**  
 **📍 Bengaluru, Karnataka, India**  
 
 **🚀 Seeking Software Development Opportunities**
