@@ -43,28 +43,7 @@
 
 ### ✨ Core Features
 
-<table width="100%">
-  <tr>
-    <th width="20%" align="center">Role</th>
-    <th width="60%" align="center">Key Features</th>
-    <th width="20%" align="center">Status</th>
-  </tr>
-  <tr>
-    <td align="center"><b>👨‍🎓 Students</b></td>
-    <td align="center">📚 Enroll &nbsp;&nbsp; • &nbsp;&nbsp; 📝 Assess &nbsp;&nbsp; • &nbsp;&nbsp; 🏆 Certify &nbsp;&nbsp; • &nbsp;&nbsp; ⭐ Review</td>
-    <td align="center">✅ Live</td>
-  </tr>
-  <tr>
-    <td align="center"><b>👨‍🏫 Instructors</b></td>
-    <td align="center">➕ Create &nbsp;&nbsp; • &nbsp;&nbsp; 📊 Upload &nbsp;&nbsp; • &nbsp;&nbsp; 🎯 Manage &nbsp;&nbsp; • &nbsp;&nbsp; 📈 Track</td>
-    <td align="center">✅ Live</td>
-  </tr>
-  <tr>
-    <td align="center"><b>👨‍💼 Admin</b></td>
-    <td align="center">👥 Users &nbsp;&nbsp; • &nbsp;&nbsp; ✅ Approve &nbsp;&nbsp; • &nbsp;&nbsp; 📊 Analytics &nbsp;&nbsp; • &nbsp;&nbsp; 🛡️ Controls</td>
-    <td align="center">🚧 Soon</td>
-  </tr>
-</table>
+<table width="100%"> <tr> <th width="20%" align="center">Role</th> <th width="60%" align="center">Key Features</th> <th width="20%" align="center">Status</th> </tr> <tr> <td align="center"><b>👨‍🎓 Students</b></td> <td align="center">📚 Enroll &nbsp;•&nbsp; 📝 Assess &nbsp;•&nbsp; 🏆 Certify &nbsp;•&nbsp; ⭐ Review</td> <td align="center">✅ Live</td> </tr> <tr> <td align="center"><b>👨‍🏫 Instructors</b></td> <td align="center">➕ Create &nbsp;•&nbsp; 📊 Upload &nbsp;•&nbsp; 🎯 Manage &nbsp;•&nbsp; 📈 Track</td> <td align="center">✅ Live</td> </tr> <tr> <td align="center"><b>👨‍💼 Admin</b></td> <td align="center">👥 Users &nbsp;•&nbsp; ✅ Approve &nbsp;•&nbsp; 📊 Analytics &nbsp;•&nbsp; 🛡️ Controls</td> <td align="center">🚧 Soon</td> </tr> </table>
 
 <br>
 
