@@ -40,9 +40,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 </div>
-
 <br>
-
 ### ✨ Key Features
 
 | Role | Features |
@@ -51,15 +49,12 @@
 | **👨‍🏫 Instructors** | ➕ Create Courses • ✏️ Update Content • 📊 Upload Materials • 🎯 Manage Content |
 
 <br>
-
 ### 🔮 Future Enhancements
 
 | Role | Features |
 |------|----------|
 | **👨‍💼 Admin** | 👥 User Management • ✅ Course Approval • 📊 Analytics Dashboard • 🛡️ Security Controls |
-
 <br>
-
 <div align="center">
 
 [![View Code](https://img.shields.io/badge/📁_View_Code-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/CourseMangement-React)
@@ -73,7 +68,7 @@
 
 
 <div align="center">
-### 🌐 Frontend Development
+###🌐 Frontend Development
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -84,7 +79,7 @@
 
 
 <div align="center">
-### ⚙️ Backend & Databases
+###⚙️ Backend & Databases
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -96,7 +91,7 @@
 
 
 <div align="center">
-### 🛠️ Tools & DevOps
+###🛠️ Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
