@@ -40,7 +40,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-</div>
+
 
 ## ✨ Key Features
 
@@ -57,7 +57,7 @@
 - 📈 **Analytics Dashboard** - Performance insights
 - 🛡️ **Advanced Security** - Enhanced protection
 
-<div align="center">
+
 
 [📁 View Code](https://github.com/iamvasanthraj/CourseMangement-React) • 
 [🚀 Live Demo](https://course-demo.com)
