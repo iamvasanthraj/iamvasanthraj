@@ -41,7 +41,6 @@
 
 </div>
 
-<br>
 
 ### ✨ Key Features
 
@@ -50,7 +49,6 @@
 | **👨‍🎓 Students** | 📚 Course Enrollment • 📝 Take Assessments • 🏆 Get Certificates • ⭐ Rate Courses |
 | **👨‍🏫 Instructors** | ➕ Create Courses • ✏️ Update Content • 📊 Upload Materials • 🎯 Manage Content |
 
-<br>
 
 ### 🔮 Future Enhancements
 
