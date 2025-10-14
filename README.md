@@ -73,9 +73,7 @@
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-![GitHub Streak](https://streak-stats.demolab.com/?user=iamvasanthraj&theme=radical&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=00000000)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-bg=true&no-frame=true&margin-w=20)
 
