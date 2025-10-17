@@ -1,3 +1,5 @@
+# 🚀 Featured Projects
+
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Vasanth%20Raj&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20•%20Java%20Enthusiast&descAlignY=70&descSize=20&fontColor=ffffff&descColor=ffffff)
@@ -25,40 +27,12 @@
 
 ---
 
-# 🚀 Featured Project
+## 📋 Projects
 
-<div align="center">
-  
-## 🎓 Course Management System
-
-**Streamline learning with our all-in-one educational platform**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### ✨ Core Features
-| Role | Key Features | Status |
-|:----:|:------------:|:------:|
-| **👨‍🎓 Students** | 📚 Enroll • 📝 Assess • 🏆 Certify • ⭐ Review | ✅ Live |
-| **👨‍🏫 Instructors** | ➕ Create • 📊 Upload • 🎯 Manage • 📈 Track | ✅ Live |
-| **👨‍💼 Admin** | 👥 Users • ✅ Approve • 📊 Analytics • 🛡️ Controls | 🚧 Soon |
-</div>
-
-<br>
-
-<div align="center">
-
-[![View Code](https://img.shields.io/badge/📁_View_Code-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamvasanthraj/CourseMangement-React)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white)](https://course-demo.com)
-
-</div>
+| Project | Description | Tech Stack | Links |
+|:--------|:------------|:-----------|:------|
+| **📝 Taskify ** | Organize tasks with priority, category, and progress tracking | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | [![View Code](https://img.shields.io/badge/📁_Code-4285F4?style=flat&logo=github&logoColor=white)](https://github.com/iamvasanthraj/Taskify) [![Live Demo](https://img.shields.io/badge/🚀_Demo-34A853?style=flat&logo=rocket&logoColor=white)](https://iamvasanthraj.github.io/Taskify/) |
+| **🎓 Course Management ** | Streamline learning with all-in-one educational platform | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | [![View Code](https://img.shields.io/badge/📁_Code-4285F4?style=flat&logo=github&logoColor=white)](https://github.com/iamvasanthraj/CourseMangement-React) [![Live Demo](https://img.shields.io/badge/🚀_Demo-34A853?style=flat&logo=rocket&logoColor=white)](https://course-demo.com) |
 
 ---
 
@@ -86,7 +60,6 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 </div>
 
