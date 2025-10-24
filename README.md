@@ -13,7 +13,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.2)](https://www.linkedin.com/in/iamvasanthraj/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white&scale=1.2)](https://iamvasanthraj.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white&scale=1.2)](https://iamvasanthraj.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.2)](https://mail.google.com/mail/?view=cm&to=imvasanthraj003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&scale=1.2)](https://github.com/iamvasanthraj)
 
