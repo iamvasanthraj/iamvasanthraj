@@ -126,10 +126,6 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=iamvasanthraj&theme=radical&hide_border=true&background=00000000&fire=FF0000&currStreakLabel=FF0000&ring=FF0000&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF)
-
-<br>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamvasanthraj&theme=radical&no-bg=true&no-frame=true&margin-w=20&row=2&column=4&rank=SSS,SS,S,AAA,AA,A,B,C)
 
