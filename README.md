@@ -51,32 +51,39 @@
 
 ---
 
-### 🎓 Course Management System  
-**Streamline learning with our all-in-one educational platform**
+## 🛍️ Sales Savvy - E-Commerce Platform  
+**A full-stack e-commerce web app with authentication, product management, cart, and orders.**
 
-<div align="center">
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&scale=1.1)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&scale=1.1)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&scale=1.1)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&scale=1.1)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&scale=1.1)
+---
 
-</div>
+### 👥 Role-based Features
 
-#### 👥 Role-based Features:
+| Role | Features | Status |
+|:----:|:--------:|:------:|
+| 👤 **Customer** | Browse • Cart • Checkout • Orders | ✅ Live |
+| 🛡️ **Admin** | Users • Products • Categories • Orders | ✅ Live |
 
-| Role | Key Features | Status |
-|:----:|:------------:|:------:|
-| **👨‍🎓 Students** | 📚 Enroll • 📝 Assess • 🏆 Certify • ⭐ Review | ✅ Live |
-| **👨‍🏫 Instructors** | ➕ Create • 📊 Upload • 🎯 Manage • 📈 Track | ✅ Live |
-| **👨‍💼 Admin** | 👥 Users • ✅ Approve • 📊 Analytics • 🛡️ Controls | 🚧 Coming Soon |
+---
 
-<div align="center">
-<br>
+### 📋 Features
+✅ User Register/Login (JWT)  
+✅ Product & Category Management  
+✅ Cart Add/Update/Remove  
+✅ Checkout (Mock Payment)  
+✅ Order History & Status Update  
+✅ Admin Dashboard (Users, Orders, Products)
 
-[![View Code](https://img.shields.io/badge/📁_View_Code-4285F4?style=for-the-badge&logo=github&logoColor=white&scale=1.1)](https://github.com/iamvasanthraj/CourseMangement-React)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-34A853?style=for-the-badge&logo=rocket&logoColor=white&scale=1.1)](https://course-demo.com)
+---
+
+### 🔗 Links
+- 📁 **Code:** https://github.com/iamvasanthraj/Sales_Savvy_E-Commerce  
+- 🚀 **Live Demo:**
 
 </div>
 
